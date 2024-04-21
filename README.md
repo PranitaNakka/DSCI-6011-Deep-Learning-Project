@@ -1,7 +1,7 @@
-### DSCI-6011-Deep-Learning-Project
+# DSCI-6011-Deep-Learning-Project
 Welcome to our github project repository
 
-### PROJECT - FOOD RECOGNITION SYSTEM
+# PROJECT - FOOD RECOGNITION SYSTEM
 
 This repository contains a description, dataset - images , and code for our project.
 
@@ -16,7 +16,7 @@ Industry Applications: Restaurants and food services can use this technology for
 
 ## Approach (i.e., what algorithms, datasets, models, tools, and techniques we intend to use to achieve the project objectives):
 ### Algorithm:
-Convolutional Neural Networks (CNNs): The core of your model will be CNNs due to their excellence in handling image data. Specific architectures to consider include:
+*** Convolutional Neural Networks (CNNs) ***: The core of your model will be CNNs due to their excellence in handling image data. Specific architectures to consider include:
 ResNet-50 or ResNet-101: These models are deep enough to capture complex patterns in food images, yet efficient in terms of computational resources.
 Transfer Learning: Start with pre-trained models on ImageNet to leverage learned features which are common across general image recognition tasks, and fine-tune them on the Food-101 dataset.
 Data Augmentation: To improve model robustness and reduce overfitting, employ data augmentation techniques such as rotations, scaling, cropping, and color adjustments.
