@@ -7,16 +7,7 @@ Welcome to our github project repository
 ### Dataset - https://www.kaggle.com/datasets/dansbecker/food-101 (Downloaded from kaggle)
 ### Link to Google drive: https://drive.google.com/drive/folders/1UPDW33BzpZobsTTUocAN9RM4HtRFx-Ch?usp=sharing
 As the dataset is very huge (10gb) we've chosen to take only 10 categories from them, each category consists of 1000 images: 
-1.apple_pie	baklava		
-2.beef_tartare  
-3.beignets		 
-4.baklava
-5.baby_back_ribs	
-6.beef_carpaccio	
-7.beet_salad    
-8.bibimbap	
-9.omelette
-10.pizza
+### apple_pie	baklava	beef_tartare  beignets baklava baby_back_ribs	beef_carpaccio beet_salad bibimbap omelette pizza
 
 ## Statement of project objectives:
 The primary objective of this project is to develop a robust food recognition system that can accurately identify and classify images of food into one of 101 categories based on the Food-101 dataset.  The project aims to achieve high accuracy in food recognition by leveraging the capabilities of the Inception-v3 architecture. The objective is to train the model to accurately identify and classify food images with minimal error rates, ensuring reliable performance in real-world scenarios.
