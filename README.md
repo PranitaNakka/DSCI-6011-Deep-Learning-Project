@@ -3,9 +3,9 @@ Welcome to our github project repository
 
 # PROJECT - FOOD RECOGNITION SYSTEM
 
-# This repository contains a description , and code for our project.
-# Dataset - https://www.kaggle.com/datasets/dansbecker/food-101 (Downloaded from kaggle)
-# Link to Google drive: https://drive.google.com/drive/folders/1UPDW33BzpZobsTTUocAN9RM4HtRFx-Ch?usp=sharing
+### This repository contains a description , and code for our project.
+### Dataset - https://www.kaggle.com/datasets/dansbecker/food-101 (Downloaded from kaggle)
+### Link to Google drive: https://drive.google.com/drive/folders/1UPDW33BzpZobsTTUocAN9RM4HtRFx-Ch?usp=sharing
 As the dataset is very huge (10gb) we've chosen to take only 10 categories from them, each category consists of 1000 images: 
 1.apple_pie	baklava		
 2.beef_tartare  
