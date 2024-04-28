@@ -5,7 +5,7 @@ Welcome to our github project repository
 
 ### This repository contains a description , and code for our project.
 ### Dataset - https://www.kaggle.com/datasets/dansbecker/food-101 (Downloaded from kaggle)
-### Link to Google drive: https://drive.google.com/drive/folders/1UPDW33BzpZobsTTUocAN9RM4HtRFx-Ch?usp=sharing
+### Link to Google drive: https://drive.google.com/drive/folders/1h490vwPOpWXRAfo68be2gwFPrPnd7Cpg
 As the dataset is very huge (10gb) we've chosen to take only 10 categories from them, each category consists of 1000 images: 
 ### apple_pie	baklava	beef_tartare  beignets baklava baby_back_ribs	beef_carpaccio beet_salad bibimbap omelette pizza
 
