@@ -6,7 +6,7 @@ This project employs deep learning techniques to recognize and classify food ima
 ### Features
 - **Image Classification**: Classify various food items from images.
 - **Model Training**: Instructions on how to train the model with new data.
-- **Accuracy Metrics**: Evaluate the performance of the model with precision, recall, and F1-score.
+- **Metrics**: Evaluate the performance of the model with plots of Accuracy and Loss.
 
 ## Getting Started
 
