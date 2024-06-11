@@ -1,5 +1,4 @@
-# DSCI-6011-Deep-Learning-Project
-Welcome to our github project repository
+
 
 # PROJECT - FOOD RECOGNITION SYSTEM
 
